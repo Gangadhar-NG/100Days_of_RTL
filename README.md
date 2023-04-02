@@ -3,8 +3,7 @@
 
 # Table of Contents
 
-SINO | Design Name | EDAPlayground Link
+SINO | Design Module | EDAPlayground Link
 ---| --- | ---
-1 | Day1:Half  | https://www.edaplayground.com/x/fah3
----|---|---
-2 | Full Adder | https://www.edaplayground.com/x/fah3
+1 | Day 1:Half Adder | https://www.edaplayground.com/x/fah3
+2 | Day 2:Full Adder | https://www.edaplayground.com/x/fah3
