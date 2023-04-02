@@ -1,4 +1,30 @@
-module fulladd(input a,b,cin,output sum,carry);
-  assign sum=a^b^cin;
-  assign carry=a&b|(a^b)&cin;
+// Design Half Adder using Behavioral Modeling
+
+module Halfadd(a,b,sum,carry);
+  input a,b;
+  output reg sum,carry;
+  
+  always @(*)
+    begin
+      sum=a^b;
+      carry=a&b;
+    end
 endmodule
+
+// Design Half Adder using Data flow Modeling
+
+/*module Halfadd(input a,b output sum,carry);
+  
+  assign sum=a^b;
+  assign carry=a&b;
+  
+endmodule
+
+// Design Half Adder using Gate level Modeling
+
+module Halfadd(input a,b output sum,carry);
+  
+  xor g1(sum,a,b);
+  and g2(carry,a,b);
+  
+endmodule*/
