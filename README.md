@@ -1,6 +1,9 @@
 # 100Days_of_RTL
 
-SINO | Design Name 
+
+# Table of Contents
+
+SINO | Design Name | EDAPlayground Link
 ---| ---
-1 | Full Adder
-2 | Half Adder
+1 | Half Adder | https://www.edaplayground.com/x/fah3
+2 | Full Adder | https://www.edaplayground.com/x/fah3
