@@ -12,3 +12,4 @@ SINO | Design Module | EDAPlayground Link
 5 | Day 5:MUX_nto1   | https://edaplayground.com/x/KNvw
 6 | Day 6:Encoder_4to2 | https://edaplayground.com/x/vXAR
 7 | Day 7:Decoder_2to4 | https://edaplayground.com/x/dsaE
+8 | Day 8:MUX_4to1 using 2to1 | https://edaplayground.com/x/X2dv
