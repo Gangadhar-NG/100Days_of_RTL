@@ -14,3 +14,4 @@ SINO | Design Module | EDAPlayground Link
 7 | Day 7:Decoder_2to4 | https://edaplayground.com/x/dsaE
 8 | Day 8:MUX_4to1 using 2to1 | https://edaplayground.com/x/X2dv
 9 | Day 9:FA_using_Decoder | https://www.edaplayground.com/x/KTYn
+10 | Day 10 : nbit_magnitude_comparator | https://www.edaplayground.com/x/dMQ5
