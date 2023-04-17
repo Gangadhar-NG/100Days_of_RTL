@@ -17,4 +17,5 @@ SINO | Design Module | EDAPlayground Link
 10 | Day 10: nbit_magnitude_comparator | https://www.edaplayground.com/x/dMQ5
 11 | Day 11: FA_using_4to1MUX | https://edaplayground.com/x/6v6n
 12 | Day 12: 4 bit_RCA | https://edaplayground.com/x/hpdJ
+13 | Day 13: 4 bit_CLA | https://edaplayground.com/x/KXP3
 
